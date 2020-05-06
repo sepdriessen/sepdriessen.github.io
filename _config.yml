@@ -4,8 +4,8 @@ email: josephus.driessen_AT_iit.it
 description: > # this means to ignore newlines until "twitter_username:"
   Personal website of Josephus (Sep) J. M. Driessen
 
-baseurl: "/sepdriessen"
-url: "http://sepdriessen.github.io"
+baseurl: #"/sepdriessen"
+url: "http://sepdriessen.github.io/"
 
 
 # social links
