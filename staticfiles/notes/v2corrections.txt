@@ -1,0 +1,15 @@
+Thesis v1->v2 minor corrections
+- in print: inner margin+5mm (paper size 175x240mm)
+- [frontmatter, 3rd page]: addition "Composition of dissertation committee: (...)" etc. &  Reprint v1.2 (July 28, 2019)
+- [C1.2, p3]: related optimisation -> related optimisations
+- [C2.1, p8]: authors knowledge -> author's knowledge
+- [C2.3, p18]: ),shown in -> ), shown in
+- [C2.3, p18]: ) Nevertheless, -> ). Nevertheless, 
+- [C3, p31]: roots in (Azad, 2014; Azad & Featherstone, 2016) -> roots in Azad (2014); Azad & Featherstone (2016) [\citep -> \citet]
+- [C3.1.1, p32]: established in (Azad, 2014; Azad & Featherstone, 2013, 2014a) -> established in Azad (2014); Azad & Featherstone (2014, 2014a) [\citep -> \citet]
+- [C3.1.2, p34]: (as in fig. 3.1 (Driessen, 2015) -> (as in fig. 3.1 (Driessen, 2015))
+- [C3.1.2, p34]: .This implies that the hip -> . This implies that the hip
+- [C5.4.5, p74]: footnote 5 moved from margin to end of first sentence of SSS TP-PCB.
+- [C7.5, p146, QTY3 & F7.3, p142]: [\epsilon_\failc] 0.21 -> 0.021
+- [C8.3.3, p167]: ankle spring and foot respectively -> foot (excluding ankle spring) and ankle spring respectively.
+- [AA, p183-184, QTY4]: stride -> stroke
