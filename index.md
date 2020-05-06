@@ -1,0 +1,7 @@
+---
+layout: home
+---
+
+<img src="/staticfiles/figures/sep2019.jpg" alt="sep2019" height="250" align="left" hspace="20"/>
+
+I was born and raised in Delft, The Netherlands. I have obtained the BSc and MSc degrees in mechanical engineering in 2012 and 2015 respectively, both at the TU Delft. In 2019 I obtained the Ph.D degree in robotics from Istituto Italiano di Tecnologia (IIT), Genoa, Italy, on the design of fundamental balancing and hopping robots. I am currently employed as a postdoc at IIT's department of Rehabilitation Technologies (RTech), where I mainly work on the design and control of an above-knee prosthetic leg. My interests are in dynamic mechanical devices and their alikeness to nature, especially in legged and medical robotics.
