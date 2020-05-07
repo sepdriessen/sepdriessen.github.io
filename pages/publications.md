@@ -19,17 +19,16 @@ Driessen, J. J. M., & G&ouml;rner, M. (2014). The effects of serial elastic actu
 Bharatheesha, M., Rudinac, M., Chandarr, A., Gaisser, F., Pons, S., Küpers, B., Driessen, J. J. M., Bruinink, M., Wisse, M., & Jonker, P. (2012). Delft Robotics RoboCup@Home 2012 team description paper. In _Proceedings of RoboCup_.
 
 <style>
-	.center {
+	.auto-center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  max-width: 375px;
+  width: 100%;
 }
 </style>
 
-<img src="/staticfiles/figures/printed-thesis.png" alt="sep2019" width="400" class="center"/>
-
-[comment]: <?> ![printed-thesis](/staticfiles/figures/printed-thesis.jpg)
+<img src="/staticfiles/figures/printed-thesis.png" alt="sep2019" width="400" class="auto-center"/>
 
 <small>
 	\* The thesis uploaded at the [UNIGE repository](https://iris.unige.it/handle/11567/950662) is the original and official version. The download available on [this website](/staticfiles/documents/driessen2019phd-compressed.pdf) is a compressed (<5MB) version of the otherwise identical thesis, where pixelized images are shrunk down. Another&mdash;non-official and newer&mdash;version of the document is also available for download on this website ([content](/staticfiles/documents/driessen2019phd-v2print.pdf), [cover](/staticfiles/documents/phd-cover-v2print.pdf)), which was made in response to a request for additional thesis prints. In this version, I took the opportunity to include the dissertation committee, extend the acknowledgements and make several textual corrections, as detailed [here](/staticfiles/notes/v2corrections.txt).
