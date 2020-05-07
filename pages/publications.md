@@ -23,7 +23,7 @@ Bharatheesha, M., Rudinac, M., Chandarr, A., Gaisser, F., Pons, S., Küpers, B.,
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 60%;
 }
 </style>
 
